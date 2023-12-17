@@ -1,1 +1,2 @@
 # -Stack-Queue
+This is  REALLY AWESOME PIECE OF CODE THAT MAKES THE QUEUE CLASS OUT OF STACK. sorry about caps. The hard part or the enqueue works by Reversing the stack! wow so cool. You can do that by moving every elemnt from the first stack to the second one, then you add the new elemnt on the first stack. After that you put everything back onto the frist stack. Dequeueing you just remove the first input of your stack and boom! complete class.
